@@ -6,7 +6,8 @@
 🌱 &nbsp;I’m interested in front-end development and open source.\
 👀 &nbsp;My hobbies are watching movies. Some of my favourites are Forest Gump, Lakshya, Social network.\
 💞️ &nbsp;I’m looking to collaborate on projects.\
-📫 &nbsp;You can reach me at: mr.saurabhshelar@gmail.com. I will reply asap, I promise!\for more details about me.\
+📫 &nbsp;You can reach me at: mr.saurabhshelar@gmail.com. I will reply asap, I promise!\
+for more details about me.\
 🌐 &nbsp;Check out my website: [Saurhub.in](https://saurhub.in).
 
 ### 🛠 &nbsp;Tech Stack
