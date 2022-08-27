@@ -2,12 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm currently working as a Software Engineer (React) at CK-12 Foundation.\
+💻 &nbsp;I'm currently working as a Software Engineer (React) at [CK-12 Foundation](https://ck12.org).\
 🌱 &nbsp;I’m interested in front-end development and open source.\
 👀 &nbsp;My hobbies are watching movies. Some of my favourites are Forest Gump, Lakshya, Social network.\
 💞️ &nbsp;I’m looking to collaborate on projects.\
 📫 &nbsp;You can reach me at: mr.saurabhshelaar@gmail.com. I will reply asap, I promise!\for more details about me.\
-🌐 &nbsp;Check out my website: https://saurhub.in/.
+🌐 &nbsp;Check out my website: [Saurhub.in](https://saurhub.in).
 
 ### 🛠 &nbsp;Tech Stack
 
