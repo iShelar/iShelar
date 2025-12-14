@@ -47,6 +47,11 @@ I build full-stack systems, automate workflows, and contribute to developer comm
 
 ---
 
+## 📜 Certifications
+
+* **AWS Certified Solutions Architect – Associate**
+
+
 ## 🌱 **Current Interests**
 
 * Full-stack systems with clean architecture
