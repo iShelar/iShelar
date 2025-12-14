@@ -9,13 +9,22 @@ I build full-stack systems, automate workflows, and contribute to developer comm
 
 ---
 
-## 🧩 **Community, Volunteering & Open Source**
+## 🧩 Community, Volunteering & Open Source
 
-* **Volunteer at Python Ireland** — supporting meetups, assisting organizers, and contributing to community initiatives
-* **Open-Source Contributor** — PRs, documentation, and tooling improvements across various repos
-* **Mentorship & Peer Support** — helping juniors with React, Node, and full-stack fundamentals
-* **Knowledge Sharing** — writing short breakdowns on system design, Java/Spring basics, and full-stack patterns
-* **Talks & Events** — active participant in Dublin tech meetups; delivered lightning talks on automation and SSG workflows
+* **Open-Source Contributor — Python Ireland**  
+  Shipped a production dark-mode feature (accessible theming, persistent user preference) now live on python.ie
+
+* **Volunteer — PyCon Ireland 2025**  
+  Supported conference operations across multiple roles (attendee coordination, on-site logistics, and speaker support)
+
+* **Community Volunteer — Python Ireland**  
+  Supporting meetups and contributing frontend improvements to the community platform
+
+* **Mentorship & Peer Support**  
+  Helping juniors with React, Node, and full-stack fundamentals
+
+* **Knowledge Sharing**  
+  Writing short breakdowns on system design, Java/Spring basics, and full-stack patterns
 
 ---
 
