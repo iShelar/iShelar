@@ -17,7 +17,7 @@ I build full-stack systems, automate workflows, and contribute to developer comm
 * **Volunteer — PyCon Ireland 2025**  
   Supported conference operations across multiple roles (attendee coordination, on-site logistics, and speaker support)
 
-* **Community Volunteer — Python Ireland**  
+* **Committee Member — Python Ireland**  
   Supporting meetups and contributing frontend improvements to the community platform
 
 * **Mentorship & Peer Support**  
