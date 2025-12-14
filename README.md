@@ -30,16 +30,16 @@ I build full-stack systems, automate workflows, and contribute to developer comm
 
 ## 🛠 **Tech Stack**
 
-### **Full-Stack Development**
+### **Front Development**
 
 * **JavaScript • React • Node.js • Astro**
-* **HTML • CSS • Bootstrap**
+* **Tailwind CSS • MaterialUI • Mantine • Unit Testing**
 
 ### **Backend & Infrastructure**
 
-* **Java • SQL**
-* **Docker • AWS • Linux**
-* **Git • GitHub • CI/CD basics**
+* **Java (Spring/Spring Boot) • PostgreSQL**
+* **Docker • Jenkins • SonarQube • AWS • Linux**
+* **Git • GitHub/Gitlab • CI/CD**
 
 ### **Languages**
 
