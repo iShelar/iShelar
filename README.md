@@ -18,7 +18,7 @@ I build full-stack systems, automate workflows, and contribute to developer comm
   Supported conference operations across multiple roles (attendee coordination, on-site logistics, and speaker support)
 
 * **Committee Member — Python Ireland**  
-  Supporting meetups and contributing frontend improvements to the community platform
+  Supporting meetups and contributing website improvements to the community platform
 
 * **Mentorship & Peer Support**  
   Helping juniors with React, Node, and full-stack fundamentals
