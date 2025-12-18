@@ -5,7 +5,7 @@
 
 **Ex–CK12 Foundation • Cavista (Axxess) • Zeus Learning**
 
-I build full-stack systems, automate workflows, and contribute to developer communities. My work spans large-scale content generation, data workflows, and clean UI/UX design — backed by industry experience across three engineering teams.
+I build full-stack systems, automate workflows, and contribute to developer communities. My work spans large-scale systems with real userbase, data workflows, and clean UI/UX design — backed by industry experience across three engineering teams.
 
 ---
 
