@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm **Saurabh Shelar**
 
-### **Full-Stack Engineer | MSc Computer Science (Intelligent Systems) @ Trinity College Dublin**
+### **Full-Stack Engineer | Frontend (React/TypeScript) + Backend (Java / Node.js) | AWS | Production Systems**
 
 **Ex–CK12 Foundation • Cavista (Axxess) • Zeus Learning**
 
